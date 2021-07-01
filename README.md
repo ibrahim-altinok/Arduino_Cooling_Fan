@@ -14,6 +14,8 @@ Cooling Fan gives a start under 20 celsius and stop working over 20 celsius
 
 
 MAX6675 : https://datasheets.maximintegrated.com/en/ds/MAX6675.pdf
+JQC-3FF-S-Z : https://www.generationrobots.com/media/JQC-3FF-v1.pdf
+
 
 This converter resolves temperatures to 0.25°C, allows readings as high as +1024°C, and exhibits thermocouple
 accuracy of 8 LSBs for temperatures ranging from 0°C to +700°C.
